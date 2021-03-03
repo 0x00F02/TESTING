@@ -1,2 +1,2 @@
 # Stexlth issued code.
-# No skid allowed.
+# No skids allowed.
